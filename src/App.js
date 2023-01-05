@@ -14,6 +14,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to our Web Page</h1>
+      <h1>Welcome to our Web Page</h1>
       <Layout />
 
       <Routes>
