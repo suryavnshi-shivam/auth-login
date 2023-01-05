@@ -1,0 +1,12 @@
+.list {
+    border: 2px solid black;
+    margin: 15px;
+    text-align: start;
+    display: flex;
+    padding: 10px;
+    box-shadow: 0 0 0 1em #66ccff;
+}
+
+.list h2 {
+    margin-left: 20px;
+}
